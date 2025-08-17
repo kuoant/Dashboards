@@ -3,6 +3,11 @@
 A curated collection of **interactive dashboards** for data visualization and analysis.  
 Each dashboard showcases different designs, tools, and use cases — a handy resource for learning and inspiration.
 
+
+
+<img width="1037" height="589" alt="Screenshot 2025-08-17 at 13 59 17" src="https://github.com/user-attachments/assets/017541f4-69dc-40c7-9a0a-571ba0507abc" />
+
+
 ---
 
 ## ✨ Features
