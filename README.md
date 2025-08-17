@@ -17,7 +17,6 @@ Each dashboard showcases different designs, tools, and use cases — a handy res
 ## 🔧 Tools & Frameworks
 Some dashboards may use:
 - 🖌️ Excel
-- 📈 Plotly / Dash
 - ⚡ Streamlit
 - 📊 Power BI
 - 📉 Tableau
