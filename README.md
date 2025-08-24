@@ -1,8 +1,9 @@
 # 📊 Dashboard Collection
 
-A curated collection of **interactive dashboards** for data visualization and analysis.  
+Acollection of **interactive dashboards** for data visualization and analysis.  
 Each dashboard showcases different designs, tools, and use cases — a handy resource for learning and inspiration.
 
+<img width="602" height="415" alt="image" src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" />
 
 ---
 
