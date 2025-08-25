@@ -50,9 +50,9 @@ Contributions are welcome!
 This project is licensed under the **Apache License 2.0** — see the [`LICENSE`](LICENSE) file for details.
 
 
-# 🎑 Examples
+# 🎑 Examples from the Repository
 ## ⚡️ Power BI
-[bild.pdf](https://github.com/user-attachments/files/21965149/bild.pdf)
+<img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
 
 ## 🐍 Python
 
