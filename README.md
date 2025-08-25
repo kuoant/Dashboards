@@ -39,14 +39,6 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 - 🚀 Growing collection with clear examples
 
 
----
-
-## 🔧 Tools & Frameworks
-Some dashboards may use:
-- 🖌️ Excel
-- ⚡ Streamlit
-- 📊 Power BI
-- 📉 Tableau
 
 ---
 
