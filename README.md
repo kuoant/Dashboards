@@ -10,6 +10,10 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 <img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
 
 ## 🐍 Python
+### Full Dashboard Light
+<img width="1195" height="579" alt="Screenshot 2025-08-25 at 11 59 11" src="https://github.com/user-attachments/assets/33bebc66-0991-44d1-9c5e-3317b22e1372" />
+<img width="1195" height="502" alt="Screenshot 2025-08-25 at 11 59 31" src="https://github.com/user-attachments/assets/cbed805f-6368-407c-a409-1fbead42e03f" />
+
 
 
 ## 🧮 Tableau
