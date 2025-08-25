@@ -17,6 +17,7 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 </p>
 
 ## 📊 Excel
+<img width="1292" height="596" alt="Screenshot 2025-08-25 at 11 11 10" src="https://github.com/user-attachments/assets/3aab9221-e3f0-4cdf-a29c-29d1fca93f10" />
 
 
 
