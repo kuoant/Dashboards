@@ -3,9 +3,7 @@
 A collection of **interactive dashboards** for data visualization and analysis.  
 Each dashboard showcases different designs, tools, and use cases — a handy resource for learning and inspiration.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" alt="image" width="602" height="415">
-</p>
+<img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
 
 ---
 
@@ -56,6 +54,11 @@ This project is licensed under the **Apache License 2.0** — see the [`LICENSE`
 
 ## 🐍 Python
 
+
 ## 🧮 Tableau
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" alt="image" width="602" height="415">
+</p>
 
 ## 📊 Excel
+
