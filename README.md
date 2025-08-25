@@ -1,9 +1,25 @@
 # 📊 Dashboard Collection
 
 A collection of **interactive dashboards** for data visualization and analysis.  
-Each dashboard showcases different designs, tools, and use cases — a handy resource for learning and inspiration.
+Each dashboard showcases different designs, tools, packages, and use cases — a handy resource for learning and inspiration.
 
+
+# 🎑 Examples from the Repository
+## ⚡️ Power BI
 <img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
+
+## 🐍 Python
+
+
+## 🧮 Tableau
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" alt="image" width="602" height="415">
+</p>
+
+## 📊 Excel
+
+
+
 
 ---
 
@@ -47,18 +63,4 @@ Contributions are welcome!
 ## 📜 License
 This project is licensed under the **Apache License 2.0** — see the [`LICENSE`](LICENSE) file for details.
 
-
-# 🎑 Examples from the Repository
-## ⚡️ Power BI
-<img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
-
-## 🐍 Python
-
-
-## 🧮 Tableau
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" alt="image" width="602" height="415">
-</p>
-
-## 📊 Excel
-
+---
