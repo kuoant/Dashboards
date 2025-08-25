@@ -3,6 +3,7 @@
 A collection of **interactive dashboards** for data visualization and analysis.  
 Each dashboard showcases different designs, tools, packages, and use cases — a handy resource for learning and inspiration.
 
+---
 
 # 🎑 Examples from the Repository
 ## ⚡️ Power BI
