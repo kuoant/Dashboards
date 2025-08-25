@@ -14,6 +14,9 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 <img width="1195" height="579" alt="Screenshot 2025-08-25 at 11 59 11" src="https://github.com/user-attachments/assets/33bebc66-0991-44d1-9c5e-3317b22e1372" />
 <img width="1195" height="502" alt="Screenshot 2025-08-25 at 11 59 31" src="https://github.com/user-attachments/assets/cbed805f-6368-407c-a409-1fbead42e03f" />
 
+### Dropdown Dark
+<img width="1398" height="563" alt="Screenshot 2025-08-25 at 11 55 28" src="https://github.com/user-attachments/assets/dfe5c5b8-6d6f-4726-acb4-47988afc69cb" />
+
 
 
 ## 🧮 Tableau
