@@ -1,6 +1,6 @@
 # 📊 Dashboard Collection
 
-Acollection of **interactive dashboards** for data visualization and analysis.  
+A collection of **interactive dashboards** for data visualization and analysis.  
 Each dashboard showcases different designs, tools, and use cases — a handy resource for learning and inspiration.
 
 <p align="center">
