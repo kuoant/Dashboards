@@ -20,10 +20,6 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 
 
 ## 🧮 Tableau
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf22a061-621e-4ca1-8482-eeb4a9679eb4" alt="image" width="602" height="415">
-</p>
-
 <img width="1457" height="838" alt="PrimeVideo_Dashboard" src="https://github.com/user-attachments/assets/774066ae-13bd-4981-b0d5-fb204014bcb0" />
 
 
