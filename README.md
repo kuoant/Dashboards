@@ -8,6 +8,8 @@ Each dashboard showcases different designs, tools, packages, and use cases — a
 # 🎑 Examples from the Repository
 ## ⚡️ Power BI
 <img width="1282" height="732" alt="Screenshot 2025-08-25 at 11 04 50" src="https://github.com/user-attachments/assets/7a0b3183-6613-426b-b10d-cd97758d28f8" />
+<img width="1444" height="759" alt="Bildschirmfoto 2025-11-09 um 15 28 09" src="https://github.com/user-attachments/assets/8dd3a2ea-2ced-4f0a-9ce3-da3e6e6795b0" />
+
 
 ## 🐍 Python (Plotly)
 #### Plotly Full-Dashboard Light
